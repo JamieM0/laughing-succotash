@@ -1,2 +1,2 @@
-# laughing-succotash
+# ReallyBasicUsefulScripts
 ReallyBasicUsefulScripts
